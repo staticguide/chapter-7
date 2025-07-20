@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Jul 2025 12:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Web Journey</title>
+      <link>//localhost:1313/posts/my-web-journey/</link>
+      <pubDate>Fri, 04 Jul 2025 12:00:00 -0700</pubDate>
+      <guid>//localhost:1313/posts/my-web-journey/</guid>
+      <description>&lt;p&gt;Looking back on how I got started with web development&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Digs</title>
+      <link>//localhost:1313/posts/new-digs/</link>
+      <pubDate>Fri, 04 Jul 2025 12:00:00 -0700</pubDate>
+      <guid>//localhost:1313/posts/new-digs/</guid>
+      <description>&lt;p&gt;My web presence just got a serious upgrade with Hugo&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Static Sites Rock</title>
+      <link>//localhost:1313/posts/static-sites-rock/</link>
+      <pubDate>Fri, 04 Jul 2025 11:00:00 -0700</pubDate>
+      <guid>//localhost:1313/posts/static-sites-rock/</guid>
+      <description>&lt;p&gt;Static sites offer amazing performance and security benefits. They load quickly because there&amp;rsquo;s no database to query, and they&amp;rsquo;re incredibly secure because there&amp;rsquo;s no server-side code that can be exploited.&lt;/p&gt;&#xA;&lt;div class=&#34;text-ad&#34; style=&#34;border: 1px solid #ddd; background-color: #f9f9f9; padding: 1rem; margin: 2rem 0; border-radius: 4px; font-size: 0.9em;&#34;&gt;&#xA;    &lt;div style=&#34;color: #666; font-size: 0.75em; text-transform: uppercase; margin-bottom: 0.5rem; font-weight: bold;&#34;&gt;Advertisement&lt;/div&gt;&#xA;    &lt;div style=&#34;margin-bottom: 0.5rem;&#34;&gt;&#xA;        &lt;strong style=&#34;color: #1a0dab;&#34;&gt;Learn Web Development Fast&lt;/strong&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div style=&#34;color: #006621; margin-bottom: 0.25rem;&#34;&gt;www.example.com&lt;/div&gt;&#xA;    &lt;div style=&#34;color: #545454; line-height: 1.3;&#34;&gt;&#xA;        Master HTML, CSS, and JavaScript in just 12 weeks. Join thousands of successful graduates. Get started today with our free trial lesson.&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Another major advantage of static sites is their simplicity. You don&amp;rsquo;t need to worry about server maintenance, security patches, or database backups.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning Hugo</title>
+      <link>//localhost:1313/posts/learning-hugo/</link>
+      <pubDate>Fri, 04 Jul 2025 10:00:00 -0700</pubDate>
+      <guid>//localhost:1313/posts/learning-hugo/</guid>
+      <description>&lt;p&gt;My journey learning Hugo has been exciting. Here&amp;rsquo;s what I&amp;rsquo;ve discovered so far&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Newest Post</title>
+      <link>//localhost:1313/posts/my-newest-post/</link>
+      <pubDate>Thu, 03 Jul 2025 19:43:47 -0700</pubDate>
+      <guid>//localhost:1313/posts/my-newest-post/</guid>
+      <description>&lt;div class=&#34;tip-box&#34; style=&#34;color: #000; background-color: #e8f5e8; border-left: 4px solid #4caf50; padding: 1rem; margin: 1rem 0; border-radius: 4px;&#34;&gt;&#xA;    &lt;strong&gt;💡 Tip:&lt;/strong&gt; &#xA;Always carry extra water when walking around Albuquerque!&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Jul 2025 16:38:40 -0700</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Bacon ipsum dolor amet meatloaf capicola ball tip pancetta&#xA;tri-tip. Filet mignon beef ribs cow, chicken tongue salami&#xA;fatback burgdoggen boudin pork tail shoulder short loin&#xA;flank. Brisket hamburger ground round, landjaeger beef&#xA;ribs ribeye alcatra jowl tail cupim.&lt;/p&gt;&#xA;&lt;p&gt;Venison pork shank rump, alcatra swine pancetta strip steak&#xA;shankle burgdoggen pork belly chicken beef ribs turkey&#xA;chislic. Cow bresaola pancetta porchetta, alcatra bacon&#xA;buffalo burgdoggen ribeye beef ribs flank andouille short&#xA;ribs t-bone.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

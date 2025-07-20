@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting-Started on </title>
+    <link>//localhost:1313/tags/getting-started/</link>
+    <description>Recent content in Getting-Started on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Jul 2025 16:38:40 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Jul 2025 16:38:40 -0700</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Bacon ipsum dolor amet meatloaf capicola ball tip pancetta&#xA;tri-tip. Filet mignon beef ribs cow, chicken tongue salami&#xA;fatback burgdoggen boudin pork tail shoulder short loin&#xA;flank. Brisket hamburger ground round, landjaeger beef&#xA;ribs ribeye alcatra jowl tail cupim.&lt;/p&gt;&#xA;&lt;p&gt;Venison pork shank rump, alcatra swine pancetta strip steak&#xA;shankle burgdoggen pork belly chicken beef ribs turkey&#xA;chislic. Cow bresaola pancetta porchetta, alcatra bacon&#xA;buffalo burgdoggen ribeye beef ribs flank andouille short&#xA;ribs t-bone.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

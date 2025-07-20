@@ -1,0 +1,56 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "terminal"
+pagination.pagerSize = 5
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "orange"
+  showMenuItems = 5
+  fullWidthTheme = false
+  centerTheme = true
+
+[languages]
+  [languages.en.params]
+    languageName = "English"
+    title = "Heroic Tiramisu"
+    subtitle = "A delicious example site for the Static Guide."
+    owner = "Heroic Tiramisu"
+    keywords = ""
+    copyright = "© 2025 Heroic Tiramisu"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to homepage"
+
+    [languages.en.params.logo]
+      logoText = "Heroic Tiramisu"
+      logoHomeLink = "/"
+
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "projects"
+      name = "Projects"
+      url = "/projects"
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "tags"
+      name = "Tags"
+      url = "/tags"
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact"
+      weight = 4
+    [[languages.en.menu.main]]
+      identifier = "github"
+      name = "GitHub"
+      url = "https://github.com/yourusername"

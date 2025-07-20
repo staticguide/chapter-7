@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Themes on </title>
+    <link>//localhost:1313/tags/themes/</link>
+    <description>Recent content in Themes on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Jul 2025 19:43:47 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Newest Post</title>
+      <link>//localhost:1313/posts/my-newest-post/</link>
+      <pubDate>Thu, 03 Jul 2025 19:43:47 -0700</pubDate>
+      <guid>//localhost:1313/posts/my-newest-post/</guid>
+      <description>&lt;div class=&#34;tip-box&#34; style=&#34;color: #000; background-color: #e8f5e8; border-left: 4px solid #4caf50; padding: 1rem; margin: 1rem 0; border-radius: 4px;&#34;&gt;&#xA;    &lt;strong&gt;💡 Tip:&lt;/strong&gt; &#xA;Always carry extra water when walking around Albuquerque!&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
